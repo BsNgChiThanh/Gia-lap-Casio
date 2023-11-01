@@ -7,6 +7,7 @@
   - File crack: Copy files crack vô thư mục cài đặt
     - [CLASSWIZ_P20.dll](https://1drv.ms/u/s!AmvuvqBBIcK6iC3rp_MYLSHK3LrU?e=YsM00u)
     - [fx-580VN X Emulator.exe](https://1drv.ms/u/s!AmvuvqBBIcK6iC7WTT8jXymK3ArT?e=OhM8yp)
-  - Hướng dẫn: 
+  - Hướng dẫn: [fx-580VNX_VI.pdf](https://github.com/BsNgChiThanh/Gia-lap-Casio/files/13222622/fx-580VNX_VI.pdf)
 
 ## Máy tính Casio FX-570VN Plus
+
